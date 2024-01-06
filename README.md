@@ -1,6 +1,8 @@
 # MoviesFlix
 
 - Have deployed this project on web.
+- Video demo of this project :
+  https://github.com/darshanrawal812/MoviesFlix/assets/77135278/0d80f290-34b1-43d2-a0cc-0c02a548a91b
 - Use this project : https://moviesflixproject.netlify.app/
 
 ## Overview
@@ -17,3 +19,4 @@
 ## Technologies Used
 - React.js
 - API
+
