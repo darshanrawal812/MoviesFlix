@@ -1,7 +1,6 @@
 # MoviesFlix
-
 - Have deployed this project on web.
-- Video demo of this project : https://github.com/darshanrawal812/MoviesFlix/assets/77135278/fa4880fe-c6d3-497e-b0ab-1b68148a0f08
+- Video demo of this project : https://github.com/darshanrawal812/MoviesFlix/assets/77135278/24c52b08-d463-4e73-a2a9-1563ac2c5acf
 - Use this project : https://moviesflixproject.netlify.app/
 
 ## Overview
